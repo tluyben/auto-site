@@ -75,3 +75,7 @@ MIT License - Feel free to use this for educational purposes or as a cautionary 
 If you've made it this far and aren't at least a little concerned about the state of web content, you might be part of the problem. This project generates articles that are technically perfect, semantically structured, and utterly soulless - just like an increasing percentage of the modern web.
 
 Remember: Just because we can generate infinite content doesn't mean we should.
+
+## ☠️ Disclaimer
+
+This repository except this disclaimer was _of course_ generated fully by a LLM.
