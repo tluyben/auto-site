@@ -6,6 +6,12 @@ A dystopian demonstration of everything wrong with the modern web. This project 
 
 This is a **satirical project** that generates entire websites about any topic you can imagine. Simply type a topic into the search bar, and watch in horror as it spawns a fully-formed, SEO-optimized article complete with perfectly structured headings, relevant content, and a beautiful layout - all without a single human thought involved in its creation.
 
+## ❤️ Examples
+
+- ![HomePage](/static/index.png)
+- ![This is About Whales](/static/whales.png)
+- ![What Happened to the Commodore 64](/static/c64.png)
+
 ## ⚠️ WARNING
 
 This project is a **parody** and should NOT be used for:
